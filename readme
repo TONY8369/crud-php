@@ -1,0 +1,8 @@
+CRUD EN PHP :
+Create / add.php
+Read / index.php et details.php
+Update / edit.php
+Delete
+
+php -S localhost:8001 -d error_reporting=E_ALL
+DATABASE_URL="mysql://root:root@127.0.0.1:3306/crud_php?serverVersion=5.7"
